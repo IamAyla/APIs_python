@@ -1,4 +1,5 @@
 #Projeto - Busca de CEP
+##Para este projeto utilizaremos o API da Via Cep (https://viacep.com.br/)
 
 ##Consultando informações a partir do CEP
 #Importando a lib necessária
